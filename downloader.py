@@ -1,3 +1,7 @@
+"""
+    Don't use this script, just run "tool.py"
+"""
+
 # Packages
 from urllib.request import Request, urlopen, urlretrieve
 from bs4 import BeautifulSoup
